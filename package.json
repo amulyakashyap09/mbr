@@ -1,0 +1,17 @@
+{
+  "name": "mbr",
+  "version": "1.0.0",
+  "description": "script for backup and restoring mongodb databases",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amulyakashyap09/dynamodb-copy-data.git"
+  },
+  "keywords": [
+    "mongo-backup",
+    "backup",
+    "replicate"
+  ],
+  "author": "Amulya kashyap <amulyakashyap09@gmail.com>",
+  "license": "ISC"
+}
